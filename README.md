@@ -1,5 +1,4 @@
-# YOLO
-YOLOv13 at Y.O.L.O!!!!!(Afterglow-BanG Dream!)Target detection attempt on 3DLive and case reference of state role recognition
+# YOLOv13 at Y.O.L.O!!!!!(Afterglow-BanG Dream!)Target detection attempt on 3DLive and case reference of state role recognition
 
 Training data volume 3000
 Round 400
